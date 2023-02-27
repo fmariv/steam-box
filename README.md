@@ -32,7 +32,6 @@
     
    ```
 
-
 ### 🚀 Project setup
 1. Fork this repo
 1. Edit the [environment variable](https://github.com/YouEclipse/steam-box/actions/runs/126970182/workflow#L17-L19) in `.github/workflows/schedule.yml`:
